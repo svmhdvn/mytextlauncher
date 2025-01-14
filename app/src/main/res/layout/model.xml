@@ -18,4 +18,5 @@
     android:textColor="@android:color/white"
     android:textSize="22sp"
     android:textStyle="bold"
+    android:gravity="center_horizontal"
     tools:text="Application ABC"/>
