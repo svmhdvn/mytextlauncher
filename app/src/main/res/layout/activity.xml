@@ -2,12 +2,11 @@
 <!--    android:layout_marginTop="60dp"-->
 <!--    android:divider="@null"-->
 <!--    android:cacheColorHint="@android:color/transparent"-->
-<ListView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/list"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fastScrollEnabled="true"
     android:listSelector="?android:attr/selectableItemBackground"
-    tools:listitem="@layout/model"/>
+    tools:listitem="@layout/model" />

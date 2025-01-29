@@ -1,4 +1,4 @@
-package ademar.textlauncher;
+package name.svmhdvn.mytextlauncher;
 
 import static android.content.Intent.ACTION_MAIN;
 import static android.content.Intent.ACTION_PACKAGE_ADDED;
@@ -22,8 +22,6 @@ import android.widget.Toast;
 
 import java.util.Objects;
 import java.util.stream.Collectors;
-
-import name.svmhdvn.mytextlauncher.R;
 
 public final class Activity extends android.app.Activity implements
         AdapterView.OnItemClickListener,
